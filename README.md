@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alitprgrmr
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning JavaScript, C#, and SQL.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: send me a private message
 
 <!---
